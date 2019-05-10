@@ -1,8 +1,7 @@
 {
   "name": "jscode",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,5 +17,7 @@
   "homepage": "https://github.com/Iliqn98/jscode#readme",
   "dependencies": {
     "express": "^4.16.4"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
